@@ -1,3 +1,14 @@
+tear_down_all_accounts
+======================
+
+## Description
+
+Remove all accounts and users
+
+## Procedure
+
+1. Use the recursive delete functions to remove all accounts created
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
